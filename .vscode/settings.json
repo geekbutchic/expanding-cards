@@ -3,5 +3,6 @@
         "Mèdoc",
         "Sauvignon",
         "Tempranillo"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
